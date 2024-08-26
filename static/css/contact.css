@@ -1,0 +1,79 @@
+.title {
+    text-align: center;
+    margin-top: -30px;
+  }
+  
+  .title h2 {
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 30px;
+    color: #5A8AC6;
+    z-index: 2;
+  }
+  
+  section {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    overflow: hidden;
+  }
+  
+  .section-bg {
+    background-color: #f4f9fc;
+  }
+  
+  .section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 30px;
+    color: #894d7b;
+    z-index: 2;
+  }
+  
+  .section-title h2::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 122px;
+    height: 66px;
+    background: url(../img/section-title-bg.png) no-repeat;
+    z-index: -1;
+  }
+  
+  .section-title p {
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+    
+  }
+
+.contact-form {
+    position: absolute;
+    padding: 45px;
+    background-color: red;
+}
+
+h3 {
+    text-align: center;
+}
+
+.bi-envelope-fill {
+  font-size: 25px;
+  color: black;
+}
+
+.email-detail a{
+  color: black;
+}
+
+.email-detail a:hover {
+  color: #695DAB;
+}
