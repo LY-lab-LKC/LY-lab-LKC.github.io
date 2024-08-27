@@ -37,12 +37,12 @@ section {
 .resources-title {
   font-size: 35px;
   font-weight: bold;
-  color: blue;
+  color: #4b2feb;
 }
 
 .resources-title:hover {
   font-weight: bold;
-  color: #695DAB;
+  color: #705ed2;
 }
 
 .resources-detail {
