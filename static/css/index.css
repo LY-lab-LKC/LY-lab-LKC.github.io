@@ -128,11 +128,15 @@
   }
 
   .section-title a {
-    color: #695DAB;
+    color: #5942df;
   }
 
   .section-title a:hover {
-    color: #5942df;
+    color: #695DAB;
+  }
+
+  .section-title h3 {
+    font-size: 28px;
   }
 
   .section-title ol {
@@ -504,4 +508,9 @@
 .img-label {
   text-align: center;
   padding-top: 10px;
+}
+
+.announcement {
+  text-align: center;
+  margin: auto;
 }
