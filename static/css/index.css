@@ -514,3 +514,16 @@
   text-align: center;
   margin: auto;
 }
+
+.happening-list, .award-list {
+  padding-top: 15px;
+}
+
+.happening-a, .award-a {
+  font-size: 20px;
+  color: black
+}
+
+.position {
+  color: rgb(35, 168, 51);
+}

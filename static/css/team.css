@@ -140,7 +140,6 @@
     text-align: justify;
     padding: 10px;
   }
-
   .row {
     padding: 10px;
   }
@@ -149,3 +148,20 @@
     font-size: 20px;
     padding-top: 10px;
   }
+
+  .member-extra {
+    font-size: 17px;
+    padding-top: 35px;
+    width: 90%;
+  }
+
+  .extra-title {
+    text-align: center; 
+  }
+
+  .extra-list {
+    text-align: justify;
+    padding-top: 15px;
+  }
+
+  
